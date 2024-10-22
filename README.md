@@ -8,6 +8,9 @@ Best of all, the app is free to deploy and does not require actively running Dyn
 
 ## Deploy the app on Heroku
 
-Click the button below to deploy the app to your Heroku account. It's free!
+Click the deploy button below to deploy the app to your Heroku account:
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
+
+> [!NOTE]
+> The deployed app does not actively run Dynos nor other add-on resources resulting in zero ongoing costs. However, spinnng up one-off Dynos will incur costs. Learn more about [Dyno Usage and Costs](https://devcenter.heroku.com/articles/usage-and-billing#dyno-usage-and-costs).
