@@ -1,0 +1,19 @@
+{
+  "name": "code-exec-ruby",
+  "description": "Use Heroku Dynos as a Ruby code execution environment in your AI applications.",
+  "logo": "https://raw.githubusercontent.com/heroku-examples/code-execution-ruby/refs/heads/main/ruby.png",
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ],
+  "env": {},
+  "formation": {
+    "web": {
+      "quantity": 0
+    }
+  },
+  "addons": [],
+  "scripts": {},
+  "stack": "heroku-24"
+}
