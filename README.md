@@ -4,7 +4,7 @@ Use Heroku Dynos as a Ruby code execution environment within your AI application
 
 Best of all, the app is free to deploy and does not require actively running Dynos.
 
-<img src="ruby.png" alt="Heroku Ruby" width="540">
+<img src="ruby.png" alt="Heroku Ruby" width="250">
 
 ## Deploy the app on Heroku
 
